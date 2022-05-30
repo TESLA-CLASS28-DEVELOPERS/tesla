@@ -4,3 +4,4 @@ deploy java application
 deploy python apps
 deploy in the dev env
 deployment4
+java updated and deployed
