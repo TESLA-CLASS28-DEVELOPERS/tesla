@@ -6,4 +6,4 @@ deploy in the dev env
 deployment4D
 java updated and deployed
 deployment 5
-
+deploy to stagig
